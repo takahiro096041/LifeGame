@@ -1,0 +1,62 @@
+10
+
+dir
+5
+http://192.168.11.53/svn/Hirata/trunk/app/LifeGameSimple/res
+http://192.168.11.53/svn/Hirata
+
+
+
+2012-07-09T02:18:55.085206Z
+5
+mti_user02
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+75540173-0934-194b-b741-892a0e88a291
+
+
+
+
+
+
+0
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+values
+dir
+
+values-ja
+dir
+
+values-large
+dir
+
